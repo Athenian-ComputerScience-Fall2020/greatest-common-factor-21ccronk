@@ -1,5 +1,5 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  I have very little idea how to do this
+# I got help over zoom from Megan
 
 def find_gcf(x,y):   # Do not change function name!
     # User code goes here
